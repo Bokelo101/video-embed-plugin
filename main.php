@@ -1,7 +1,7 @@
 </php
 /*
  * Plugin Name:       Video Embed
- * Plugin URI:        https://example.com/plugins/the-basics/
+ * Plugin URI:        https://pornflex.tv
  * Description:       Embeds videos from other websites
  * Version:           1.10.1
  * Requires at least: 5.2
